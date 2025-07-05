@@ -36,7 +36,7 @@ Using pivot tables and calculated columns we will answer the following questions
 8. What is the distribution of product ratings
 9. What is the total potential revenue
 10. What is the number of unique products per price range bucket
-11. How does the rating relate ti the level of discount
+11. How does the rating relate to the level of discount
 12. How many produxts have fewer than 1000 reviews
 13. Which categories have product wth the highest discount
 14. Identify the top 5 products in terms of rating and number of reviews combined
@@ -44,6 +44,11 @@ Using pivot tables and calculated columns we will answer the following questions
 ### DATA ANALYSIS
 
 ### INSIGHTS
+
+The categories that had the highest average discounts were; Home Improvement,computers and accessories,personal care.
+MOst products had ratings of 4.0 and ab0ve meaning that the where of good quality while the products below 4.0 ratings requires attention for improvement.
+
+
 
 ### RECOMMENDATION
    
