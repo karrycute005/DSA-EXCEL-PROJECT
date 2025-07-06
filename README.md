@@ -8,7 +8,7 @@ This project aims at analysing product and customer review data to generate insi
 
 ### DATA SOURCE:
 
- The data source is Amazon case study.xlsx and was provided by DSA (incubator hub). You can download it here[Download Here](https://www.micosoft.com)
+ The data source is Amazon case study.xlsx and was provided by DSA (incubator hub).
 
  ### TOOLS USED
 
@@ -45,10 +45,10 @@ Using pivot tables and calculated columns we will answer the following questions
 
 ### INSIGHTS
 
-The categories that had the highest average discounts were; Home Improvement,computers and accessories,personal care.
-MOst products had ratings of 4.0 and ab0ve meaning that the where of good quality while the products below 4.0 ratings requires attention for improvement.
-
-
+- The categories that had the highest average discounts were; Home Improvement,computers and accessories,personal care.
+- Most products had ratings of 4.0 and above meaning that the where of good quality while the products below 4.0 ratings requires attention for improvement.
 
 ### RECOMMENDATION
-   
+
+  - Enhance product visibility and customer engagement for products that had low reviews
+  - Regulary monitor key performance indicators related to sales, customer engagement and identify new opportunities or challenges
