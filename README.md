@@ -43,6 +43,8 @@ Using pivot tables and calculated columns we will answer the following questions
 
 ### DATA ANALYSIS
 
+- Pivot tables and calculated columns where used to answer the questions.
+
 ### INSIGHTS
 
 - The categories that had the highest average discounts were; Home Improvement,computers and accessories,personal care.
